@@ -1,6 +1,6 @@
-package com.gft.achpayments.sinktools.controller;
+package pl.achp.sinktools.controller;
 
-import com.gft.achpayments.sinktools.service.MessageService;
+import pl.achp.sinktools.service.MessageService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

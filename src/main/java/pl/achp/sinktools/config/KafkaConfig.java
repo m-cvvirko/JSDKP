@@ -1,7 +1,7 @@
-package com.gft.achpayments.sinktools.config;
+package pl.achp.sinktools.config;
 
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-public class LiquibaseConfig {
+public class KafkaConfig {
 }

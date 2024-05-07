@@ -1,4 +1,4 @@
-package com.gft.achpayments.sinktools;
+package pl.achp.sinktools;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

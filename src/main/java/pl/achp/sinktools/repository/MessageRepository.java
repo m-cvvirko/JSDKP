@@ -1,6 +1,6 @@
-package com.gft.achpayments.sinktools.repository;
+package pl.achp.sinktools.repository;
 
-import com.gft.achpayments.sinktools.model.Message;
+import pl.achp.sinktools.model.Message;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
